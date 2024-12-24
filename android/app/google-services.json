@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "623211594806",
+    "firebase_url": "https://levatimovie-default-rtdb.firebaseio.com",
+    "project_id": "levatimovie",
+    "storage_bucket": "levatimovie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623211594806:android:0eaf78cc1f3496a0cbc497",
+        "android_client_info": {
+          "package_name": "com.example.iot_esp_now"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJOJN4nhQsBVxRJVCcgP7CsOvosmTeMZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623211594806:android:4266e20fac46f05dcbc497",
+        "android_client_info": {
+          "package_name": "com.example.iotespnow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJOJN4nhQsBVxRJVCcgP7CsOvosmTeMZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
